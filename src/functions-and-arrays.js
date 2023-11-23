@@ -21,6 +21,8 @@ function findLongestWord(arr) {
     return arr[i];
   }
 
+
+
 }
 
 // Iteration #3: Calculate the sum
@@ -35,6 +37,8 @@ function sumNumbers(numbers) {
   return sum;
 }
 
+
+// Unfortunately didn't get any further. Very drained and will defo need more info on arrays, loops and objects.
 
 
 // Iteration #3.1 Bonus:
